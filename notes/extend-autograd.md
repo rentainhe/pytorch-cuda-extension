@@ -20,10 +20,10 @@ class new_operation(Function):
 
 |example|code|
 |:---:|:---:|
-| __relu__ |[exp.py]()|
-| __exp__ |[relu.py]()|
+| __relu__ |[exp.py](https://github.com/rentainhe/pytorch-extending/blob/master/content/autograd/exp.py)|
+| __exp__ |[relu.py](https://github.com/rentainhe/pytorch-extending/blob/master/content/autograd/relu.py)|
 
 
-## Implemented Article
+## Reference
 - [Pytorch Docs](https://pytorch.org/docs/master/notes/extending.html?highlight=ctx)
 - [Pytorch源码解读 - torch.autograd](https://www.zhihu.com/search?type=content&q=torch.autograd)

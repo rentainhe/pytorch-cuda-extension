@@ -1,5 +1,8 @@
 # pytorch-extending
-## Learning some Pytorch operation
+Sharing some Learning notes about Pytorch
+
+## Learning some Pytorch theory and basic operation
+- [ ] `tensor`, `Variable`
 - [ ] `clone()`, `detach()`, `detach_()`, `copy_()`
 
 ## Learning how to extend pytorch:
@@ -16,6 +19,7 @@
 ### 1. Basic Operation Notes
 |operation|notes|
 |:---:|:---:|
+| `tensor`, `Variable` |[notes](https://github.com/rentainhe/pytorch-extending/blob/master/notes/basic.md)| 
 | `clone()`, `detach()`, `detach_()`, `copy_()` |...|
 
 ### 2. Pytorch Extension Notes
